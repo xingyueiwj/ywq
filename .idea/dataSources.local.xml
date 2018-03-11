@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="ywq_app@47.104.153.152" uuid="1b47dc0f-d8c0-4a60-84dd-450bd8d8c2ef">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="@118.126.102.173" uuid="ecd3de1e-e1d5-4852-aa8d-45059907e46c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+  </component>
+</project>
